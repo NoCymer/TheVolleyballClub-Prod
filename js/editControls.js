@@ -1,0 +1,1 @@
+const deleteBtn=document.querySelector("#delete-btn"),actionField=document.querySelector("#action-field");deleteBtn.addEventListener("click",(e=>{confirm("Voulez vous vraiment supprimer ce membre ?")?actionField.value="delete":e.preventDefault()}));

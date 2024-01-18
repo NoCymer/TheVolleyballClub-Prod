@@ -1,0 +1,19 @@
+<svg width="420" height="420" viewBox="0 0 420 420" fill="none" xmlns="http://www.w3.org/2000/svg" class="partner-symbol">
+    <defs>
+        <style>
+            .partner-symbol{
+                --symbol-color: black;
+            }
+        </style>
+        <clipPath id="clip0_110_141">
+            <rect width="420" height="420" fill="white" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#clip0_110_141)">
+        <circle cx="210" cy="210" r="206" stroke="var(--symbol-color)" stroke-width="8" />
+        <rect x="118.94" y="188.228" width="197.351" height="100.044" rx="50.0219"
+            transform="rotate(-36.3021 118.94 188.228)" stroke="var(--symbol-color)" stroke-width="12" />
+        <rect x="82.3877" y="268.03" width="197.351" height="100.044" rx="50.0219"
+            transform="rotate(-36.3021 82.3877 268.03)" stroke="var(--symbol-color)" stroke-width="12" />
+    </g>
+</svg>

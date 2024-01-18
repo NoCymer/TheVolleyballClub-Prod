@@ -1,0 +1,1 @@
+const passwordField=document.querySelector("#password-field"),passwordFieldConfirm=document.querySelector("#confirm-password-field"),form=document.querySelector("form");form.addEventListener("submit",(e=>{passwordField.value!=passwordFieldConfirm.value&&(e.preventDefault(),alert("password does not match"))}));

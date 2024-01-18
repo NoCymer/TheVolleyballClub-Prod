@@ -1,0 +1,2 @@
+.sponsor-header{margin:1rem;text-align:center}.sponsors-shelf{display:flex;flex-wrap:wrap;justify-content:space-around;width:100%}.sponsors-shelf .sponsor{align-items:center;display:flex;flex-direction:column;margin:2rem 5rem;text-decoration:none;transition:transform .25s}.sponsors-shelf .sponsor img{border-radius:50%;height:4rem;object-fit:cover;width:4rem}.sponsors-shelf .sponsor p{font-family:Archivo,sans-serif;font-weight:700;margin-top:.5rem;text-align:center}.sponsors-shelf .sponsor:hover{transform:scale(1.1)}
+/*# sourceMappingURL=sponsors.css.map*/

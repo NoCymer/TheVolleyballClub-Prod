@@ -1,0 +1,1 @@
+const avatarSelectors=document.querySelectorAll(".avatar-selector");avatarSelectors.forEach((e=>{e.addEventListener("change",(t=>{e.querySelector("img.display").src=URL.createObjectURL(t.target.files[0])}))}));

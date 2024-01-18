@@ -1,0 +1,17 @@
+<svg class="arrow-left-symbol" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 245.5 418">
+  <defs>
+      <style>
+          .arrow-left-symbol {
+              --symbol-color: black;
+          }
+          .cls-1{
+              fill: none;
+              stroke: var(--symbol-color);
+              stroke-linecap: round;
+              stroke-linejoin: round;
+              stroke-width: 73px;
+          }
+      </style>
+  </defs>
+  <polyline class="cls-1" points="209 381.5 36.5 209 209 36.5"/>
+</svg>

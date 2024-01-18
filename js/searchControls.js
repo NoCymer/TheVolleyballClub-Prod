@@ -1,0 +1,1 @@
+const searchBtn=document.querySelector("#search-btn"),searchField=document.querySelector("#search-field"),urlParams=new URLSearchParams(window.location.search);searchBtn.addEventListener("click",(e=>{urlParams.set("search",searchField.value),urlParams.set("page",1),window.location.search=urlParams}));

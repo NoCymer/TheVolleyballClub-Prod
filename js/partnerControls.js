@@ -1,0 +1,1 @@
+const partners=document.querySelectorAll(".partner-display");partners.forEach((r=>{const e=r.querySelector(".partner-id");r.addEventListener("click",(r=>{window.location=`/dashboard/partners/view?partner=${e.innerHTML}`}))}));

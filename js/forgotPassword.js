@@ -1,0 +1,1 @@
+const resetBtn=document.querySelector("#reset-btn"),cancelBtn=document.querySelector("#cancel-btn"),resetForm=document.querySelector("#reset-password-form");resetBtn.addEventListener("click",(e=>{e.preventDefault(),e.stopPropagation(),resetForm.submit()})),cancelBtn.addEventListener("click",(e=>{e.preventDefault(),e.stopPropagation(),window.location="/sign-in"}));

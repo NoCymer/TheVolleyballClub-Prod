@@ -1,0 +1,1 @@
+const locations=document.querySelectorAll(".location-display");locations.forEach((o=>{const c=o.id.replace("location-id-","");o.addEventListener("click",(o=>{window.location=`/dashboard/locations/view?location=${c}`}))}));

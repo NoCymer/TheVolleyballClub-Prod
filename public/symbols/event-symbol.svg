@@ -1,0 +1,26 @@
+<svg width="420" height="420" viewBox="0 0 420 420" fill="none" xmlns="http://www.w3.org/2000/svg" class="event-symbol">
+    <defs>
+        <style>
+            .event-symbol{
+                --symbol-color: black;
+            }
+        </style>
+        <clipPath id="clip0_110_25">
+            <rect width="420" height="420" fill="white" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#clip0_110_25)">
+        <path
+            d="M416 210C416 323.771 323.771 416 210 416C96.2293 416 4 323.771 4 210C4 96.2293 96.2293 4 210 4C323.771 4 416 96.2293 416 210Z"
+            stroke="var(--symbol-color)" stroke-width="8" />
+        <line x1="101" y1="155" x2="315" y2="155" stroke="var(--symbol-color)" stroke-width="12" />
+        <path d="M158 110L158 138" stroke="var(--symbol-color)" stroke-width="12" stroke-linecap="round" />
+        <path d="M259 110L259 138" stroke="var(--symbol-color)" stroke-width="12" stroke-linecap="round" />
+        <circle cx="292.5" cy="271.5" r="50.5" stroke="var(--symbol-color)" stroke-width="12" />
+        <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M126 113C108.879 113 95 126.879 95 144V266C95 283.121 108.879 297 126 297H242.068C240.155 293.224 238.654 289.204 237.623 285H126C115.507 285 107 276.493 107 266V144C107 133.507 115.507 125 126 125H290C300.493 125 309 133.507 309 144V217.447C313.232 218.738 317.254 220.511 321 222.704V144C321 126.879 307.121 113 290 113H126Z"
+            fill="var(--symbol-color)" />
+        <path d="M293 271H320" stroke="var(--symbol-color)" stroke-width="12" stroke-linecap="round" />
+        <path d="M293 270.546L309.272 249" stroke="var(--symbol-color)" stroke-width="12" stroke-linecap="round" />
+    </g>
+</svg>

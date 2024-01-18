@@ -1,0 +1,1 @@
+if(!navbar_loaded_once){var navbar_loaded_once=!0;document.querySelectorAll("ul.navbar").forEach((e=>{const a=e.querySelector(".navbar-menu");e.querySelector(".navbar-menu-opener").addEventListener("click",(()=>{a.classList.contains("active")?a.classList.remove("active"):a.classList.add("active")}))}))}

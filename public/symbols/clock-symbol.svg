@@ -1,0 +1,17 @@
+<svg width="420" height="420" viewBox="0 0 420 420" fill="none" xmlns="http://www.w3.org/2000/svg" class="clock-symbol">
+    <defs>
+        <style>
+            .clock-symbol{
+                --symbol-color: black;
+            }
+        </style>
+    </defs>
+    <g clip-path="url(#clip0_104_20)">
+        <path
+            d="M414 209.5C414 322.469 322.863 414 210.5 414C98.137 414 7 322.469 7 209.5C7 96.5308 98.137 5 210.5 5C322.863 5 414 96.5308 414 209.5Z"
+            stroke="var(--symbol-color)" stroke-width="12" />
+        <path d="M326 322L210.498 210.499" stroke="var(--symbol-color)" stroke-width="12" stroke-linecap="round" />
+        <path d="M241 132L210 210" stroke="var(--symbol-color)" stroke-width="15" stroke-linecap="round" />
+        <circle cx="210" cy="210" r="10" fill="var(--symbol-color)" />
+    </g>
+</svg>

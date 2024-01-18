@@ -1,0 +1,21 @@
+<svg width="420" height="420" viewBox="0 0 420 420" fill="none" xmlns="http://www.w3.org/2000/svg" class="document-symbol">
+    <defs>
+        <style>
+            .document-symbol{
+                --symbol-color: black;
+            }
+        </style>
+        <clipPath id="clip0_112_260">
+            <rect width="420" height="420" fill="var(--symbol-color)" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#clip0_112_260)">
+        <circle cx="210" cy="210" r="206" stroke="var(--symbol-color)" stroke-width="8" />
+        <path
+            d="M253.757 95.7426L253.765 95.7501L253.772 95.7576L289.201 130.938H255C251.143 130.938 248.015 127.818 248 123.965L248.351 90.3361L253.757 95.7426ZM255 154.938H301V317.938C301 328.431 292.493 336.938 282 336.938H138C127.507 336.938 119 328.431 119 317.938V102C119 91.5066 127.507 83 138 83H224V123.938C224 141.059 237.879 154.938 255 154.938Z"
+            stroke="var(--symbol-color)" stroke-width="12" />
+        <path d="M146 185H274.096" stroke="var(--symbol-color)" stroke-width="12" stroke-linecap="round" />
+        <path d="M146 233.268H274.096" stroke="var(--symbol-color)" stroke-width="12" stroke-linecap="round" />
+        <path d="M146 285.249H274.096" stroke="var(--symbol-color)" stroke-width="12" stroke-linecap="round" />
+    </g>
+</svg>
