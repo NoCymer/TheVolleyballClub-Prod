@@ -4,8 +4,8 @@ namespace Database;
 
 class DatabaseConnection {
     private static $serverName = "localhost";
-    private static $username = "root";
-    private static $password = "Pabloescobar";
+    private static $username = "";
+    private static $password = "";
     private static $database = "volleyball_club";
     private $connection;
     public function __construct(){
