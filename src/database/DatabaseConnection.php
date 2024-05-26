@@ -3,7 +3,7 @@
 namespace Database;
 
 class DatabaseConnection {
-    private static $serverName = "volleyballclub-database";
+    private static $serverName = "localhost";
     private static $username = "root";
     private static $password = "Pabloescobar";
     private static $database = "volleyball_club";
